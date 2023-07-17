@@ -1,0 +1,16 @@
+:py:mod:`seis_realtime`
+=======================
+
+.. py:module:: seis_realtime
+
+
+Subpackages
+-----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 3
+
+   config/index.rst
+   tests/index.rst
+
+

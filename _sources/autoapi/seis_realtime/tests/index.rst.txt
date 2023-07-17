@@ -1,0 +1,15 @@
+:py:mod:`seis_realtime.tests`
+=============================
+
+.. py:module:: seis_realtime.tests
+
+
+Subpackages
+-----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 3
+
+   test_config/index.rst
+
+
