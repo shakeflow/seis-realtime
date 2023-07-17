@@ -1,0 +1,5 @@
+name: seis_realtime
+channels:
+  - conda-forge
+dependencies:
+  - numpy

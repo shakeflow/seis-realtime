@@ -1,0 +1,1 @@
+.. automodule:: seis_realtime
